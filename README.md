@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pixelit (The First Pixelated BPS)](https://pixelit.replit.app)
 
-- 👨‍💻 All of my projects are available at [https://izumiihd.replit.app/](https://izumiihd.replit.app)
+- 👨‍💻 All of my projects are available at [https://izumiihd.replit.app](https://izumiihd.replit.app)
 
 - 📫 How to reach me **technoscootalo@gmail.com**
 
