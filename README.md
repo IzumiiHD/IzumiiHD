@@ -25,4 +25,4 @@ I'm passionate about creating engaging and responsive web experiences. As a budd
 - Improving my skills with Node.js and MongoDB
 
 ### 🏆 Projects
-- [Project 1](https://github.com/izumiihd/Pixelit): The very first Blooket private server with pixel art blooks and badges! Programmed primarily in JavaScript!
+- [Pixelit](https://github.com/izumiihd/Pixelit): The very first Blooket private server with pixel art blooks and badges! Programmed primarily in JavaScript!
