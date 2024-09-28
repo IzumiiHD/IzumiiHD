@@ -15,7 +15,7 @@ I'm passionate about creating engaging and responsive web experiences. As a budd
 
 ### 🌟 Key Skills
 - HTML5 & CSS3
-- JavaScript
+- Basic JavaScript
 - Responsive Web Design
 - Version Control with Git
 - Basic understanding of Node.js and MongoDB
